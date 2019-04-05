@@ -14,7 +14,7 @@ An intelligent and minimal Windows optimizer.
 * Integrated administrative privileges request.
 
 ### Download:
-[Windowzer (Latest)](https://github.com/metaspook/Windowzer/releases/download/v1.0/Windowzer-v1.0-release.zip)
+#### [Windowzer (Latest)](https://github.com/metaspook/Windowzer/releases/download/v1.0/Windowzer-v1.0-release.zip)
 
 ### Instructions:
 * Download "Windowzer-vx.x-release.zip"
