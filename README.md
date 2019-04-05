@@ -13,8 +13,11 @@ An intelligent and minimal Windows optimizer.
 * Handy portable script, run from anywhere.
 * Integrated administrative privileges request.
 
+### Download:
+[Windowzer (Latest)](https://github.com/metaspook/Windowzer/releases/download/v1.0/Windowzer-v1.0-release.zip)
+
 ### Instructions:
-* Download "Windowzer-vx.x-release.zip" (In GitHub from Release tab).
+* Download "Windowzer-vx.x-release.zip"
 * 'Extract All' from select and right click menu.
 * Inside extracted folder run "Windowzer.bat"
 * You can move and run this script from anywhere.
