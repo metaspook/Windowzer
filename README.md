@@ -14,7 +14,7 @@ An intelligent and minimal Windows optimizer.
 * Integrated administrative privileges request.
 
 ### Download:
-#### [Windowzer (Latest)](https://github.com/metaspook/Windowzer/releases/download/v1.0/Windowzer-v1.0-release.zip)
+#### [Windowzer (Latest)](https://github.com/metaspook/Windowzer/releases/download/v1.0/Windowzer-v1.1-release.zip)
 
 ### Instructions:
 * Download "Windowzer-vx.x-release.zip"
@@ -24,4 +24,5 @@ An intelligent and minimal Windows optimizer.
 * Keep it in Desktop I'd suggest cuz it handy 😉.
 
 ### Change Log:
+* v1.1: Added "Watermark Remover" and "Restart Explorer" options.
 * v1.0: Initial Release.
